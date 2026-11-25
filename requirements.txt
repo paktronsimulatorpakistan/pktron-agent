@@ -1,0 +1,4 @@
+pktron
+google-generativeai
+flask
+flask-cors
