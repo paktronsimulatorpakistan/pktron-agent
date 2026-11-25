@@ -1,7 +1,7 @@
 # ⚛️ PKTron Agent
 ### Pakistan's First AI-Powered Quantum Circuit Agent
 
-Built by [CETQAC](https://thecetqap.com) — Centre of Excellence for Technology, Quantum and AI.
+Built by [CETQAP](https://thecetqap.com) — Centre of Excellence for Technology, Quantum and AI Pakistan
 
 PKTron Agent lets you build and simulate real quantum circuits using plain English. 
 Type "make a bell state" and the agent writes the code, runs it on the PKTron 
